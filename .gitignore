@@ -1,2 +1,4 @@
 data/*
 !data/.keep
+mt_finetune/finetune_data/eval_data/*
+mt_finetune/finetune_data/lm_data/*
