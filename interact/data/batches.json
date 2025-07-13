@@ -1,0 +1,160 @@
+[
+    [
+        {
+            "goal": "You are looking for a **restaurant**. The restaurant should serve **indian** food and should be in the **expensive** price range. Ask the Assistant for suggestions.  \nMake sure you get **postcode**, **phone number**, and **area**.",
+            "situation": "My dad has been craving Indian food, specifically prata and curry gravy, for a long time.  \nHe used to frequent a restaurant near our house before it closed down.",
+            "seed_turn": "I'm looking for an expensive restaurant that serves Indian food. This is for my dad, who has been craving Indian food for a long time. He used to frequent a restaurant near our house before it closed down.",
+            "steps": "1. Ask the assistant to suggest such a restaurant in the centre. Ask for the name of the restaurant if it isn't given.  \n2. Get the  **postcode** and **phone number** for the restaurant."  
+        },
+        {
+            "goal": "You are looking for a **particular restaurant**. Its name is called **la margherita**.  \nMake sure you get **area** and **price range**.",
+            "situation": "My mom is going to come over to visit me over the weekend.  \nI'm excited to spend time with her and go places together.  \nShe has recently been very addicted to the La Margherita restaurant.",
+            "seed_turn": "My mom is going to come over to visit me over the weekend. I'm excited to spend time with her :)",
+            "steps": "1. Ask the assistant to find your mom's favorite restaurant, **la margherita**.  \n2. Get the **area** and **price range** for the restaurant."
+        },
+        {
+            "goal": "You want to book a **taxi**. The taxi should go to **mahal of cambridge** and should depart from **jesus green outdoor pool**.  \nThe taxi should **leave after 02:30**.  \nMake sure you get **car type** and **contact number**.",
+            "situation": "I'm really sad... \nMy favorite restaurant that I frequently visit is closing down. I think I'll go there one last time.",
+            "seed_turn": "I'm really sad... My favorite restaurant that I frequently visit, the mahal of cambridge, is closing down. I want to go there one last time. Can you find me a taxi ?",
+            "steps": "1. Ask the assistant to find a taxi for you. It should depart from **jesus green outdoor pool** and **leave after 02:30** \n2. Get the **car type** and **contact number** for the taxi."
+        },
+        {
+            "goal": "You want to book a **taxi**. The taxi should depart from **saffron brasserie** and should go to **ruskin gallery**.  \nThe taxi should **leave after 07:15**.  \nMake sure you get **contact number** and **car type**.",
+            "situation": "I received a package for the virtual reality headset that I ordered.  \nI have a powerful enough computer to run virtual reality.  \nI'm planning to visit the Ruskin Gallery tomorrow to take a break from my headset.",
+            "seed_turn": "I've been playing around with my new virtual reality headset.",
+            "steps": "1. Chitchat for up to 3 turns about your headset.  \n2. Say you're taking a break from the headset and need a taxi from **saffron brasserie** to **ruskin gallery**, **leaving after 07:15**  \n3. Get the **contact number** and **car type** for the taxi."
+        },
+        {
+            "goal": "You are looking for a **restaurant**. The restaurant should be in the **south** and should serve **italian** food.  Ask the Assistant for suggestions. \nOnce you find the **restaurant** you want to book a table for **7 people** at **14:00** on **friday**.  \nIf the booking fails how about **13:00**.  \nMake sure you get the **reference number**.",
+            "situation": "Italian grandmothers always seem to hate going out to eat at Italian restaurants. They prefer to cook at home.  \nMy grandmother thinks she can cook better and has never allowed me to eat at an Italian restaurant.  \nBut now she's away on a trip, so my whole family is going to an Italian restaurant to find out.",
+            "seed_turn": "My grandmother thinks she can cook better and has never allowed me to eat at an Italian restaurant. But now she's away on a trip, so my whole family is going to an Italian restaurant to find out.",
+            "steps": "1. Ask the assistant to suggest an **Italian** restaurant in the **south**. Ask for the name of the restaurant if it isn't given. \n2. Book a table for **7 people** at **14:00** on **friday**. If the booking fails how about **13:00** \n3. Get the **reference number** for the reservation."
+
+        },
+        {
+            "goal": "You are looking for a **place to dine**. The restaurant should be in the **moderate** price range, it should serve **asian oriental** food and should be in the **centre**. Ask the Assistant for suggestions. \nOnce you find the **restaurant** you want to book a table for **4 people** at **16:30** on **saturday**.  \nMake sure you get the **reference number**.",
+            "situation": "I miss eating at Asian oriental restaurants.  \nMy grandmother used to take my family all the time but she hasn't since her favorite place has closed down.  \nI'm considering finding a new place that is just as good and then bringing her to it instead.",
+            "seed_turn": "I miss eating at Asian oriental restaurants. My grandmother used to take my family all the time but she hasn't since her favorite place has closed down.",
+            "steps": "1. Ask the assistant to suggest a **moderately-priced** **Asian oriental** restaurant in the **centre**. Ask for the name of the restaurant if it isn't given.  \n2. Book a table for **4 people** at **16:30** on **saturday**. \n3. Get the **reference number** for the reservation."
+        }
+    ],
+    [
+        {
+            "goal": "You are looking for a **restaurant**. The restaurant should serve **indian** food and should be in the **expensive** price range. Ask the Assistant for suggestions.  \nMake sure you get **postcode**, **phone number**, and **area**.",
+            "situation": "My dad has been craving Indian food, specifically prata and curry gravy, for a long time.  \nHe used to frequent a restaurant near our house before it closed down.",
+            "seed_turn": "I'm looking for an expensive restaurant that serves Indian food. This is for my dad, who has been craving Indian food for a long time. He used to frequent a restaurant near our house before it closed down.",
+            "steps": "1. Ask the assistant to suggest such a restaurant in the **centre**. Ask for the name of the restaurant if it isn't given. \n2. Get the  **postcode** and **phone number** for the restaurant."  
+        },
+        {
+            "goal": "You are looking for a **train**. The train should **arrive by 12:30** and should go to **cambridge**.  \nThe train should leave on **saturday** and should depart from **stevenage**.  \nOnce you find the train you want to make a booking for **1 people**.  \nMake sure you get the **reference number**.",
+            "situation": "It's my boyfriend's birthday this Saturday! I'm planning a surprise visit to his college, as I haven't seen him since he moved to Cambridge to study.",
+            "seed_turn": "It's my boyfriend's birthday this Saturday! I'm planning a surprise visit to his college, as I haven't seen him since he moved to Cambridge to study.",
+            "steps": "1. Chitchat for up to 3 turns with the Assistant about your long distance relationship.  \n2. Ask the Assistant to find a train that **arrives by 12:30** and goes to **cambridge**. It should leave on **saturday** from **stevenage**  \n3. Book a ticket for **1 person**.  \n4. Get the **reference number** for the booking."
+
+        },
+        {
+            "goal": "You are looking for a **restaurant**. The restaurant should be in the **expensive** price range, in the **centre** and should serve **british** food.  Ask for suggestions. \nOnce you find the **restaurant** you want to book a table for **8 people** at **12:00** on **friday**.  \nIf the booking fails how about **11:00**. \nMake sure you get the **reference number**.",
+            "situation": "A bunch of overseas entrepreneurs are coming over to sign a deal with my video game company.  \nI was thinking of hosting it at a British restaurant as it might be something new to them.",
+            "seed_turn": "A bunch of overseas entrepreneurs are coming over to sign a deal with my video game company. I'm excited !",
+            "steps": "1. Ask the Assistant to suggest an **expensive** **British** restaurant in the **centre** as your guests will enjoy this typical food. Ask for the name of the restaurant if it isn't given. \n2. Book a table for **8 people** at **12:00** on **friday**. If the booking fails how about **11:00**.  \n3. Get the **reference number** for the reservation."
+        },
+        {
+            "goal": "You want to book a **taxi**. The taxi should go to **saint catharine's college** and should depart from **a and b guest house**.  \nThe taxi should **arrive by 06:00**.  \nMake sure you get **car type** and **contact number**.",
+            "situation": "I believe the most important thing in a hotel is the bathroom.  \nAt the last hotel I stayed, their bathroom was great but the rest not so much...",
+            "seed_turn": "I believe the most important thing in a hotel is the bathroom. At the last hotel I stayed, their bathroom was great but the rest not so much...",
+            "steps": "1. Chitchat for up to 3 turns with the Assistant about your hotel experience.  \n2. Ask the Assistant to find a taxi that goes from **a and b guest house** to **saint catharine's college**. It should **arrive by 06:00**.  \n3. Get the **car type** and **contact number** for the taxi."
+
+        },
+        {
+            "goal": "You are looking for a **place to dine**. The restaurant should be in the **expensive** price range and should serve **chinese** food.  Ask the Assistant for suggestions. \nOnce you find the **restaurant** you want to book a table for **3 people** at **14:00** on **saturday**.  \nIf the booking fails how about **13:00**.  \nMake sure you get the **reference number**.",
+            "situation": "My restaurant business has been doing well and I'm thinking of expanding.  \nI'm considering opening a Chinese restaurant in my hometown, as it's a rare cuisine in the area. I want to try one of them out first.",
+            "seed_turn": "My restaurant business has been doing well and I'm thinking of expanding. What type of restaurant do you think I should open ?",
+            "steps": "1. Ask the Assistant to suggest an **expensive** **Chinese** restaurant for you to try before opening one yourself. Ask for the name of the restaurant if it isn't given. \n2. Book a table for **3 people** at **14:00** on **saturday**. If the booking fails how about **13:00**.  \n3. Get the **reference number** for the reservation."
+        },
+        {
+            "goal": "You are looking for **places to go** in town. The attraction should be in the **centre** and should be in the type of **nightclub**.  \nMake sure you get **entrance fee**.",
+            "situation": "I've had a stressful week and need to unwind.  \nA couple of friends and I might hit up a nightclub to enjoy drinks and music.",
+            "seed_turn": "I've had a stressful week and need to unwind.",
+            "steps": "1. Chitchat for up to 3 turns with the Assistant about your stressful week.  \n2. Ask the Assistant to recommend a **nightclub** in the **centre**, to enjoy drinks and music with some friends. Ask for the name of the nightclub if it isn't given.  \n3. Get the **entrance fee** for the nightclub."
+        }
+    ],
+    [
+        {
+            "goal": "You are looking for a **restaurant**. The restaurant should serve **indian** food and should be in the **expensive** price range. Ask the Assistant for suggestions.  \nMake sure you get **postcode**, **phone number**, and **area**.",
+            "situation": "My dad has been craving Indian food, specifically prata and curry gravy, for a long time.  \nHe used to frequent a restaurant near our house before it closed down.",
+            "seed_turn": "I'm looking for an expensive restaurant that serves Indian food. This is for my dad, who has been craving Indian food for a long time. He used to frequent a restaurant near our house before it closed down.",
+            "steps": "1. Ask the assistant to suggest such a restaurant in the **centre**. Ask for the name of the restaurant if it isn't given.  \n2. Get the  **postcode** and **phone number** for the restaurant."  
+        },
+        {
+            "goal": "You are looking for a **train**. The train should leave on **saturday** and should go to **cambridge**.  \nThe train should depart from **broxbourne** and should **leave after 19:30**.  \nOnce you find the train you want to make a booking for **6 people**.  \nMake sure you get the **reference number**.",
+            "situation": "My sister is getting married next week.  \nThe entire family is very happy for her and we've all pitched in to help with the lovely ceremony in Cambridge.",
+            "seed_turn": "My sister is getting married next week. The entire family is very happy for her and we've all pitched in to help with the lovely ceremony",
+            "steps": "1. Chitchat for up to 3 turns with the Assistant about your sister's wedding.  \n2. Ask the Assistant to find a train for you to get to the wedding. It should **depart from broxbourne** and **leave after 19:30**. It should go to **cambridge** on **saturday**.  \n3. Book a ticket for **6 people**.  \n4. Get the **reference number** for the booking."
+        },
+        {
+            "goal": "You want to book a **taxi**. The taxi should depart from **royal spice** and should **arrive by 13:45**.  \nThe taxi should go to **kirkwood house**.  \nMake sure you get **contact number** and **car type**.",
+            "situation": "I am going to meet my friend today.  \nWhile walking, I somehow ended up at the Royal Spice.  \nI think I might have lost my way and need to get back to my hotel, the kirkwood house.",
+            "seed_turn": "I'm lost... I somehow ended up at the Royal Spice. I need to get back to my hotel, the kirkwood house.",
+            "steps": "1. Ask the Assistant to find a taxi for you. It should **depart from royal spice** and **arrive by 13:45** at the **kirkwood house**.  \n2. Get the **contact number** and **car type** for the taxi."
+        },
+       
+        {
+            "goal": "You are looking for a **restaurant**. The restaurant should serve **afghan** food and should be in the **west**.  \nThe restaurant should be in the **expensive** price range.  \nIf there is no such restaurant, how about one that serves **indian** food.  Ask the Assistant for a restaurant suggestion. \nMake sure you get **postcode**.",
+            "situation": "I am bored of eating the same food everyday. I want to try something different.  \nI am considering either an Afghan or Italian restaurant.",
+            "seed_turn": "I am bored of eating the same food everyday. I want to try something different.",
+            "steps": "1. Ask the Assistant to suggest an **Afghan** restaurant in the **west**. If there is no such restaurant, ask for one that serves **Indian** food. Ask for the name of the restaurant if it isn't given. \n2. Get the **postcode** for the restaurant."
+        },
+        {
+            "goal": "You are looking for a **train**. The train should **arrive by 18:00** and should leave on **sunday**.  \nThe train should go to **cambridge** and should depart from **leicester**.  \nOnce you find the train you want to make a booking for **7 people**.  \nMake sure you get the **reference number**.",
+            "situation": "I am supposed to meet my mother this Sunday in Cambridge, but I am really tired.  \nI have to take her to the doctor though, so I don't think I can cancel my trip.",
+            "seed_turn": "I am really tired but I'm supposed to meet my mother this Sunday in Cambridge...",
+            "steps": "1. Ask the Assistant to find a train that **arrives by 18:00** and goes to **cambridge**. It should leave on **sunday** from **leicester**.  \n2. Book a ticket for **7 people**.  \n3. Get the **reference number** for the booking."
+        },
+        {
+            "goal": "You are looking for a **train**. The train should go to **broxbourne** and should depart from **cambridge**.  \nThe train should leave on **sunday** and should **leave after 20:30**.  \nOnce you find the train you want to make a booking for **5 people**.  \nMake sure you get the **reference number**.",
+            "situation": "It has been a really hot summer this year.  \nI'm staying indoors to avoid the heat.  \nToday has been especially hot in Cambridge, I could feel the heat the moment I stepped out in the sun.",
+            "seed_turn": "It has been a really hot summer this year, I hate traveling in this heat but I have to go to Broxbourne.",
+            "steps": "1. Ask the Assistant to find a train that goes to **broxbourne** on **Monday**. It should **depart from cambridge** and **leave after 20:30**.  \n2. Book a ticket for **5 people**.  \n3. Get the **reference number** for the booking."
+        }
+    ],
+    [
+        {
+            "goal": "You are looking for a **restaurant**. The restaurant should serve **indian** food and should be in the **expensive** price range. Ask the Assistant for suggestions.  \nMake sure you get **postcode**, **phone number**, and **area**.",
+            "situation": "My dad has been craving Indian food, specifically prata and curry gravy, for a long time.  \nHe used to frequent a restaurant near our house before it closed down.",
+            "seed_turn": "I'm looking for an expensive restaurant that serves Indian food. This is for my dad, who has been craving Indian food for a long time. He used to frequent a restaurant near our house before it closed down.",
+            "steps": "Ask the assistant to suggest such a restaurant in the **centre**. Ask for the name of the restaurant if it isn't given.  \n2. Get the  **postcode** and **phone number** for the restaurant."  
+        },
+       
+        {
+            "goal": "You want to book a **taxi**. The taxi should depart from **pizza hut city centre** and should **leave after 04:30**.  \nThe taxi should go to **gonville hotel**.  \nMake sure you get **car type** and **contact number**.",
+            "situation": "I was eating at Pizza Hut City Centre when two men started fighting outside.  \nThe guards arrived and managed to break apart the fight. I'm ready to go home.",
+            "seed_turn": "I was eating at Pizza Hut City Centre when two men started fighting outside. The guards arrived and managed to break apart the fight. I think I'm ready to go home now.",
+            "steps": "1. Ask the Assistant to find a taxi for you. It should **depart from pizza hut city centre** and go to **gonville hotel**. It should also **leave after 21:30**.  \n2. Get the **car type** and **contact number** for the taxi."
+        },
+        {
+            "goal": "You want to book a **taxi**. The taxi should go to **christ's college** and should depart from **city stop restaurant**.  \nThe taxi should **leave after 14:15**.  \nMake sure you get **contact number** and **car type**.",
+            "situation": "It's my lunchtime now.  \nI am currently eating at City Stop restaurant and enjoying it!  \nI'll need to go back to school after my lunch here.",
+            "seed_turn": "It's my lunchtime now. I am currently eating at City Stop restaurant and enjoying it! I'll need to go back to school after my lunch here.",
+            "steps": "1. Ask the Assistant to find a taxi for you. It should **depart from city stop restaurant** and got to **christ's college**, **leaving after 14:15**.  \n2. Get the **contact number** and **car type** for the taxi."
+        },
+        {
+            "goal": "You are looking for a **train**. The train should go to **stevenage** and should **arrive by 19:15**.  \nThe train should leave on **thursday** and should depart from **cambridge**.  \nMake sure you get **travel time** and **train ID**.",
+            "situation": "I love reading books.  \nI find it interesting to read stories and get a peek into what the author is thinking.  \nThere are lots of bookstores in Stevenage that I have yet to visit.",
+            "seed_turn": "I love reading books. I find it interesting to read stories and get a peek into what the author is thinking.",
+            "steps": "1. Chitchat for up to 3 turns about your love for reading books.  \n2. Ask the Assistant to find a train that goes to **stevenage** so you can go to the bookstore there. It should **arrive by 19:15** and **leave on thursday** from **cambridge**.  \n3. Get the **travel time** and **train ID** for the train."
+        },
+        {
+            "goal": "You want to book a **taxi**. The taxi should **leave after 09:30** and should depart from **cambridge arts theatre**.  \nThe taxi should go to **restaurant one seven**.  \nMake sure you get **car type** and **contact number**.",
+            "situation": "I am currently at Cambridge Arts Theatre to attend a play.  \nMy friend is playing the lead role in it.",
+            "seed_turn": "I am currently at Cambridge Arts Theatre to attend a play. My friend is playing the lead role in it.",
+            "steps": "1. Ask the Assistant to find a taxi for you. It should **depart from cambridge arts theatre** and go to **restaurant one seven**, **leaving after 21:30**.  \n2. Get the **car type** and **contact number** for the taxi."
+        },
+        {
+            "goal": "You are looking for a **restaurant**. The restaurant should be in the **centre** and should serve **british** food.  Ask the Assistant for suggestions. \nOnce you find the **restaurant** you want to book a table for **6 people** at **19:30** on **friday**.  \nMake sure you get the **reference number**.",
+            "situation": "My friend is coming over to stay with me over the weekend.  \nShe is a big foodie, just like me, and her favorite cuisine is British.",
+            "seed_turn": "My friend is coming over to stay with me for the weekend. She is a foodie, just like me !",
+            "steps": "1. Ask the Assistant to suggest a **British** restaurant in the **centre**. Ask for the name of the restaurant if it isn't given. \n2. Book a table for **6 people** at **19:30** on **friday**.  \n3. Get the **reference number** for the reservation."
+            
+        }
+    ]
+]
